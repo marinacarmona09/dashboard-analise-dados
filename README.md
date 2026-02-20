@@ -8,6 +8,9 @@ Este projeto foi desenvolvido durante a Imersão de Dados da Alura, com o objeti
 - Pandas
 - Plotly
 
+## Preview do Dashboard
+![Dashboard](dashboard.png)
+
 ## Estrutura do projeto
 - `app.py` → aplicação principal do dashboard
 - `requirements.txt` → bibliotecas necessárias
