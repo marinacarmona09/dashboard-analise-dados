@@ -1,6 +1,6 @@
 # Dashboard de Análise de Dados
 
-Este projeto foi desenvolvido durante a Imersão de Dados da Alura, com o objetivo de analisar e visualizar dados utilizando Python e Streamlit.
+Este dashboard permite analisar salários na área de dados, considerando fatores como senioridade, tipo de contrato, localização e trabalho remoto.
 
 ## Tecnologias utilizadas
 - Python
