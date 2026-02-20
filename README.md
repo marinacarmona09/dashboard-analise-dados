@@ -1,1 +1,26 @@
 # Dashboard de Análise de Dados
+
+Este projeto foi desenvolvido durante a Imersão de Dados da Alura, com o objetivo de analisar e visualizar dados utilizando Python e Streamlit.
+
+## Tecnologias utilizadas
+- Python
+- Streamlit
+- Pandas
+- Plotly
+
+## Estrutura do projeto
+- `app.py` → aplicação principal do dashboard
+- `requirements.txt` → bibliotecas necessárias
+- `README.md` → documentação do projeto
+
+## Funcionalidades
+- Visualização de dados em gráficos interativos
+- Análise de salários
+- Filtros dinâmicos para exploração dos dados
+
+## Como executar o projeto
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
