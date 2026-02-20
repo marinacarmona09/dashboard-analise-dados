@@ -31,3 +31,9 @@ Os dados utilizados neste projeto estão disponíveis no arquivo `dados-imersao.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Autora
+
+Marina Carmona  
+Estudante de Ciência da Computação  
+
+LinkedIn: https://www.linkedin.com/in/seu-link  
