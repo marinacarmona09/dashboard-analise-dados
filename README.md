@@ -21,7 +21,8 @@ Este projeto foi desenvolvido durante a Imersão de Dados da Alura, com o objeti
 - Análise de salários
 - Filtros dinâmicos para exploração dos dados
 
-Dataset
+## Dataset
+
 Os dados utilizados neste projeto estão disponíveis no arquivo `dados-imersao.csv`.
 
 ## Como executar o projeto
