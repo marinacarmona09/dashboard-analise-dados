@@ -23,7 +23,7 @@ Este dashboard permite analisar salários na área de dados, considerando fatore
 
 ## Dataset
 
-Os dados utilizados neste projeto estão disponíveis no arquivo `dados-imersao.csv`.
+Os dados utilizados neste projeto estão disponíveis no arquivo `dados-imersao.csv`. O dataset contém informações sobre profissionais da área de dados, incluindo cargo, salário, moeda, localização e tipo de contrato.
 
 ## Como executar o projeto
 
